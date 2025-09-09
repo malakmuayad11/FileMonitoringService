@@ -3,7 +3,7 @@ A Windows service that monitors a source folder. When a file is added to the sou
 # Build Instructions (Release Mode):
 1. Save the source code.
 2. Build the solution (ctrl + shift + b) in release mode.
-# Deployment Instructions:s
+# Deployment Instructions:
 ### Installation (Using InstallUtil):
 1. Open the solution's folder in File Explorer.
 2. Open bin -> release -> copy file path **(service's file path)**.
