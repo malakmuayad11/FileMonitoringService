@@ -1,0 +1,18 @@
+[2025-09-09 14:29:53] File Monitoring Service started...
+[2025-09-09 14:30:31] File Monitoring Service stopped.
+[2025-09-09 14:30:50] File Monitoring Service started...
+[2025-09-09 14:31:01] File detected: C:\FileMonitoring\Source\New Text Document.txt
+[2025-09-09 14:31:01] File renmaed: C:\FileMonitoring\Source\New Text Document.txt -> C:\FileMonitoring\Source\N539a0ecc-a811-4b93-b1ee-169d95bf778c
+[2025-09-09 14:31:01] File moved: C:\FileMonitoring\Source\New Text Document.txt -> C:\FileMonitoring\Destination\N539a0ecc-a811-4b93-b1ee-169d95bf778c
+[2025-09-09 14:31:06] File detected: C:\FileMonitoring\Source\New Text Document.txt
+[2025-09-09 14:31:06] File renmaed: C:\FileMonitoring\Source\New Text Document.txt -> C:\FileMonitoring\Source\Ned63204a-4685-49d7-b7ea-f8e2a3d13ab2
+[2025-09-09 14:31:06] File moved: C:\FileMonitoring\Source\New Text Document.txt -> C:\FileMonitoring\Destination\Ned63204a-4685-49d7-b7ea-f8e2a3d13ab2
+[2025-09-09 14:31:10] File detected: C:\FileMonitoring\Source\New Text Document.txt
+[2025-09-09 14:31:10] File renmaed: C:\FileMonitoring\Source\New Text Document.txt -> C:\FileMonitoring\Source\Ndf57b93a-945f-41d1-becb-1a9d4844e85a
+[2025-09-09 14:31:10] File moved: C:\FileMonitoring\Source\New Text Document.txt -> C:\FileMonitoring\Destination\Ndf57b93a-945f-41d1-becb-1a9d4844e85a
+[2025-09-09 14:31:41] File Monitoring Service stopped.
+[2025-09-09 14:32:22] File Monitoring Service started...
+[2025-09-09 14:33:11] File detected: C:\FileMonitoring\Source\file.txt
+[2025-09-09 14:33:11] File renmaed: C:\FileMonitoring\Source\file.txt -> C:\FileMonitoring\Source\fbbb2f431-e534-4416-888f-d9e35bcfa210
+[2025-09-09 14:33:11] File moved: C:\FileMonitoring\Source\file.txt -> C:\FileMonitoring\Destination\fbbb2f431-e534-4416-888f-d9e35bcfa210
+[2025-09-09 14:33:37] File Monitoring Service stopped.
