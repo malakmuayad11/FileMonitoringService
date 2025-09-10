@@ -10,8 +10,8 @@ A Windows service that monitors a source folder. When a file is added to the sou
 3. Open the command prompt in **administrator mode**.
 4. Change the current directory to the **service's file path**.
 5. Use the following command:
-   - for 64-bit systems: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe service'sFilePath.exe
-   - for 32-bit systems: C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe service'sFilePath.exe
+   - for 64-bit systems: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe FileMonitoringService.exe
+   - for 32-bit systems: C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe FileMonitoringService.exe
 ### Start Service:
 1. Open the command prompt in administrator mode.
 2. Use this command: sc start FileMonitoringService
