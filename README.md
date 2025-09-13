@@ -18,8 +18,8 @@ A Windows service that monitors a source folder. When a file is added to the sou
 ### Stop Service:
 1. Open the command prompt in administrator mode.
 2. Use this command: sc stop FileMonitoringService
-# Uninstallation (Using IntallUtil):
-1. Open command prompt in adminstrator mode.
+# Uninstallation (Using InstallUtil):
+1. Open the command prompt in administrator mode.
 2. Use the following command:
    - for 64-bit systems: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe -u FileMonitoringService.exe
    - for 32-bit systems: C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe -u FileMonitoringService.exe
